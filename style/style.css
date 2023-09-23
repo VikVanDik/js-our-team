@@ -3,3 +3,19 @@ body p {
   width: 500px;
   margin: 0 auto;
 }
+
+.name {
+  padding-right: 10px;
+}
+
+.role {
+  padding-bottom: 10px;
+}
+
+.info {
+  padding-top: 20px;
+}
+
+.margin {
+  margin: 0 auto;
+}
