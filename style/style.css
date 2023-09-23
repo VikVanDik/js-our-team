@@ -1,0 +1,5 @@
+/* 2. Creare il markup HTML e lo stile CSS. */
+body p {
+  width: 500px;
+  margin: 0 auto;
+}
